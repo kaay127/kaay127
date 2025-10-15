@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+<title> Timetable </title>
+<style=background-color:"yellow"; text-align:"center"; width:"100%"; height:"60%">
+</head>
+<body>
+<table border="3"; style=background-color:"yellow"; text-align:"center"; width:"100%"; height:"60%">
+<tr colspan:"6"; style= text align="center";>
+<th> BSc LLB(Hons) Time Table </th>
+</tr>
+<tr style= font-weight:"bold">
+<th>Day/Time</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednasday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+<tr>
+<td>9:30-10:25</td>
+<td>OSC Theory</td>
+<td>consti</td>
+<td>web programming</td>
+<td>law of crimes</td>
+<td>consti</td>
+</tr>
+<tr>
+<td>10:30-11:25</td>
+<td>Contract</td>
+<td>Law of crimes</td>
+<td>Web Programming</td>
+<td>Library</td>
+<td>Web Programming</td>
+</tr>
+<tr>
+<td>11:30-12:25</td>
+<td>Family</td>
+<td>Family</td>
+<td>Web Programming</td>
+<td>Consti</td>
+<td>Family</td>
+</tr>
+<tr style= font-weight : "bold">
+<td>12:30-1:30</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td>Lunch</td>
+</tr>
+<tr>
+<td>1:30-2:25</td>
+<td>Contract</td>
+<td>OSC Theory</td>
+<td>Contract</td>
+<td>Family</td>
+<td>Law of crimes</td>
+</tr>
+<tr>
+<td>2:30-3:25</td>
+<td>Consti</td>
+<td>OSC Lab</td>
+<td>Law of crimes</td>
+<td>Web Programming</td>
+<td>OSC Lab</td>
+</tr>
+<tr>
+<td>3:30-4:25</td>
+<td>Moot court</td>
+<td>OSC Lab</td>
+<td>Contract</td>
+<td>Web programming</td>
+<td>OSC Lab</td>
+</tr>
+</table>
+</body>
+</html
