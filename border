@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<title>different borders</title>
+<style>
+.box{
+width: 200px;
+padding: 20px;
+margin: 20px;
+text-align: center;
+}
+.solid{
+border: 3px solid red;
+}
+.dashed{
+border: 3px dashed violet;
+}
+.dotted{
+border: 3px dotted orange;
+}
+.double{
+border: 5px double green;
+}
+.groove{
+border: 5px groove aqua;
+}
+.ridge{
+border: 5px ridge black;
+}
+.inset{
+border: 5px inset gold;
+}
+.outset{
+border: 5px outset purple;
+}
+</style>
+</head>
+<body>
+<div class="box solid">solid border</div>
+<div class="box dashed">dashed border</div>
+<div class="box dotted">dotted border</div>
+<div class="box double">double border</div>
+<div class="box groove">groove border</div>
+<div class="box ridge">ridge border</div>
+<div class="box inset">inset border</div>
+<div class="box outset">outset border</div>
+</body>
+</html>
+
+
